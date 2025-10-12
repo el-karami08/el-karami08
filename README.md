@@ -1,16 +1,106 @@
-## Hi there 👋
 
-<!--
-**el-karami08/el-karami08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm <span style="color:#4F8EF7">Wijdane EL KARAMI</span></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎓 Master's Student in <b>Advanced Machine Learning & Multimedia Intelligence</b> at <b>FSDM USMBA</b><br>
+  💡 Passionate about <b> Everything about AI : (Machine/Deep) Learning , generative AI || Cybersecurity, Blockchain, Intelligent Systems</b><br>
+  🌍 Based in Morocco | 🔭 Exploring the fusion of technology and human creativity
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+
+I’m a **Machine Learning Engineer in training** and a lifelong learner fascinated by how **AI** shape the digital world.  
+Currently pursuing my Master’s degree at **FSDM USMBA**, I focus on integrating **intelligence, transparency, and trust** into modern systems.
+
+✨ **My vision:**  
+> Build secure, explainable, and impactful AI systems that empower innovation.
+
+---
+
+## 🧠 Domains of Interest
+
+- 🤖 Artificial Intelligence & Machine/Deep Learning  
+- 🧩 Explainable AI (XAI) & Responsible AI  
+- 🧱 Blockchain & Cybersecurity  
+- 🧠 Biometrics Systems & Computer Vision  
+- 🌐 Web/text Mining, Web Scraping & Data Intelligence, Data visualization , Data wrangling
+- 💬 NLP, Text Mining, and Multilingual AI  
+
+---
+
+## ⚙️ Tech Stack
+
+| Category | Tools / Frameworks |
+|-----------|--------------------|
+| 💻 **Languages** | Python, C++, Java, SQL, HTML/CSS |
+| 🧠 **ML / DL** | PyTorch, TensorFlow, Scikit-learn, Keras |
+| 📊 **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
+| 🔍 **AI Domains** | OpenCV, HuggingFace, NLTK, SpaCy |
+| ⚙️ **Dev Tools** | Git, GitHub, Docker, VS Code, Jupyter |
+| ☁️ **Deployment** | Streamlit, FastAPI, Flask |
+| 🔐 **Security / Blockchain** | Web3.py, Solidity, Cryptography, Network Security Concepts |
+
+---
+
+## 🚀 Featured Projects
+
+| 🔹 Project | 🧠 Description | ⚙️ Tech |
+|-------------|----------------|----------|
+| [**Smart Parking App**](https://github.com/el-karami08/smart-parking-app) | IoT-integrated smart parking management system with intelligent allocation. | Python, Flask, IoT |
+| [**PARKNOLOGY: Smart Parking System**](https://github.com/el-karami08/PARKNOLOGY-smart-parking-system) | AI-driven parking control system for smart cities. | Python, OpenCV |
+| [**Image Processing Python Interface**](https://github.com/el-karami08/image-processing-python-interface) | GUI for advanced image filtering and transformation. | Python, Tkinter, OpenCV |
+| [**Images Processing Website App**](https://github.com/el-karami08/images-processing-website-app) | Web-based image manipulation and AI filters. | Flask, HTML, CSS |
+| [**Healthcare Symptom-to-Condition Assistant**](https://github.com/el-karami08/Healthcare-Symptom-to-condition-assistant) | AI system predicting medical conditions based on user symptoms. | Python, ML, Streamlit |
+| [**Medicate Image Classification (CNN)**](https://github.com/el-karami08/Medicale-Image-Classification-with-CNN) | CNN-based classification model for medical imaging. | TensorFlow, CNN |
+| [**Zero-Shot News Classifier**](https://github.com/el-karami08/zero-shot-news-classifier) | Transformer model for multilingual, zero-shot topic classification. | HuggingFace, BERT |
+| [**EduHub Platform**](https://github.com/el-karami08/EduHub-platform) | Smart e-learning platform for personalized educational experiences. | Django, ML |
+| [**Prediction of Energy Efficiency of Buildings**](https://github.com/el-karami08/Prediction-of-Energy-Efficiency-of-Buildings) | Regression-based prediction of energy consumption. | Scikit-learn, Pandas |
+| [**Arabic Transition Modeling**](https://github.com/el-karami08/Arabic-Transition-Modeling) | NLP modeling for Arabic language sequence prediction. | NLP, LSTM |
+| [**File-Lib Domains**](https://github.com/el-karami08/file-lib-domains) | Tool for managing and indexing file domains efficiently. | Python, Data Management |
+
+> 🧭 Explore all my projects [here →](https://github.com/el-karami08?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=el-karami08&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=el-karami08&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+- 🧩 Explainable AI (XAI)  
+- 🧱 Blockchain integration with AI models  
+- 🔐 Secure AI deployment & model transparency  
+- 🌐 Web Mining Automation and Knowledge Extraction  
+- 🤝 Collaborative ML with Federated Learning  
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/el-karami08"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  🧠 “The intersection of AI, Security, and Human Creativity is where the future is built.”  
+</p>
+
+---
+
+<p align="center">
+⭐️ *“The best way to predict the future is to create it.”*  
+— *Peter Drucker*
+</p>
+
+---
