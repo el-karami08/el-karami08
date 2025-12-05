@@ -2,7 +2,7 @@
 
 <p>
 > 🎓 Master's Student in <b>Advanced Machine Learning & Multimedia Intelligence</b> at <b>FSDM USMBA</b><br>
-> 💡 Passionate about <b> Everything about AI : (Machine/Deep) Learning , generative AI || Cybersecurity, Blockchain, Intelligent Systems</b><br>
+> 💡 Passionate about <b> Everything about AI : Machine Learning & Deep Learning , generative AI and Intelligent Systems</b><br>
 > 🌍 Based in Morocco | 🔭 Exploring the fusion of technology and human creativity
 </p>
 
