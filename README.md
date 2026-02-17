@@ -35,18 +35,17 @@ Currently pursuing my Master’s degree at **FSDM USMBA**, I focus on integratin
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Skills
 
-| Category | Tools / Frameworks |
-|-----------|--------------------|
-| 💻 **Languages** | Python, C++, Java, SQL, HTML/CSS |
-| 🧠 **ML / DL** | PyTorch, TensorFlow, Scikit-learn, Keras |
-| 🤖 **GenAI & LLM** | LangChain, Ollama, RAG, ChromaDB, Hugging Face |
-| 📊 **Data Science** | Pandas, NumPy, Matplotlib, Seaborn, Power BI |
-| 🔍 **AI Domains** | OpenCV, NLTK, SpaCy |
-| ⚙️ **Dev Tools** | Git, GitHub, Docker, VS Code, Jupyter |
-| ☁️ **Deployment** | Streamlit, FastAPI, Flask |
-| 🔐 **Security / Blockchain** | Web3.py, Solidity, Cryptography, Network Security Concepts |
+| Domain | Technologies |
+|:---:|:---|
+| 💻 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| 🧠 **AI & Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+| 🤖 **GenAI & NLP** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Architecture-blue?style=for-the-badge) |
+| 🔐 **Cybersecurity** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-VP-blue?style=for-the-badge) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-Lock-red?style=for-the-badge) |
+| ⚙️ **MLOps & DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) |
+| 📊 **Data & Viz** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-purple?style=for-the-badge) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| 🛠️ **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![UML](https://img.shields.io/badge/UML-Design-grey?style=for-the-badge) |
 
 ---
 
@@ -54,6 +53,10 @@ Currently pursuing my Master’s degree at **FSDM USMBA**, I focus on integratin
 
 | 🔹 Project | 🧠 Description | ⚙️ Tech |
 |-------------|----------------|----------|
+[**Pentesting with Auto-Agent (RL & LLM)**](https://github.com/el-karami08/Pentesting-with-Auto-Agent-using-RL-LLM) | **Research Project**: Automated pentesting agent utilizing Reinforcement Learning and LLMs to simulate and identify vulnerabilities. | Python, RL (Stable Baselines3), LLMs, LangChain |
+| [**Medical Chatbot (MLOps)**](https://github.com/usmba-fsdm-mlaim/project3-chatbot) | Intelligent medical assistant deployed with a complete MLOps pipeline, ensuring scalability and continuous integration. | Docker, Kubernetes, LLM, Jenkins, Python |
+| [**Teaching Assistant RAG**](https://github.com/el-karami08/teaching-assistant-RAG) | Educational RAG system designed to retrieve answers from course materials and assist students as a virtual tutor. | RAG, LangChain, ChromaDB, OpenAI API, Python |
+| [**CTR Prediction Challenge**](https://github.com/el-karami08/CTR-Challenge) | Click-Through Rate (CTR) prediction model for advertising optimization using advanced ML techniques. | Machine Learning, Scikit-learn, Pandas, NumPy |
 | [**Smart Parking App**](https://github.com/el-karami08/smart-parking-app) | IoT-integrated smart parking management system with intelligent allocation. | Vite, TypeScript, React, shadcn-ui, Tailwind CSS |
 | [**PARKNOLOGY: Smart Parking System**](https://github.com/el-karami08/PARKNOLOGY-smart-parking-system) | AI-driven parking control system for smart cities. | C++, ThingSpeak, Edge Impulse |
 | [**Image Processing Python Interface**](https://github.com/el-karami08/image-processing-python-interface) | GUI for advanced image filtering and transformation. | Python, MATLAB |
