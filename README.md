@@ -92,13 +92,13 @@ Currently pursuing my Master’s degree at **FSDM USMBA**, I focus on integratin
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=el-karami08&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=el-karami08&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-karami08&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=el-karami08&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=el-karami08&theme=tokyonight" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=el-karami08&layout=compact&theme=tokyonight" width="48%" />
+</div>
 
 ---
 
